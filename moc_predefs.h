@@ -408,6 +408,7 @@
 #define __MINGW64__ 1
 #define __GCC_DESTRUCTIVE_SIZE 64
 #define __INTMAX_WIDTH__ 64
+#define __cpp_runtime_arrays 198712L
 #define __FLT32_DIG__ 6
 #define __UINT64_TYPE__ long long unsigned int
 #define __UINT32_C(c) c ## U
